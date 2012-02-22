@@ -1,3 +1,5 @@
+My fork of Mojang's Catacomb Snatch
+
 ![Catacomb Snatch](http://i.imgur.com/uSFJF.png)
 
 ## Links
