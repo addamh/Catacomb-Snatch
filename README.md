@@ -1,4 +1,4 @@
-My fork of Mojang's Catacomb Snatch
+My fork of Mojang's Catacomb Snatch. Moar testing.
 
 ![Catacomb Snatch](http://i.imgur.com/uSFJF.png)
 
